@@ -1,4 +1,4 @@
-package com.ronik.dictionaryapp_offlinecaching.presentation
+package com.ronik.dictionaryapp_offlinecaching.presentation.main_screen
 
 import com.ronik.dictionaryapp_offlinecaching.domain.model.WordInfo
 

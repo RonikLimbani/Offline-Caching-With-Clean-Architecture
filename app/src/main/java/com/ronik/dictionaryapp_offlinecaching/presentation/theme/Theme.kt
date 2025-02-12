@@ -1,4 +1,4 @@
-package com.ronik.dictionaryapp_offlinecaching.ui.theme
+package com.ronik.dictionaryapp_offlinecaching.presentation.theme
 
 import android.app.Activity
 import android.os.Build

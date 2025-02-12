@@ -1,4 +1,4 @@
-package com.ronik.dictionaryapp_offlinecaching.ui.theme
+package com.ronik.dictionaryapp_offlinecaching.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

@@ -1,4 +1,4 @@
-package com.ronik.dictionaryapp_offlinecaching.presentation
+package com.ronik.dictionaryapp_offlinecaching.presentation.main_screen.components
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
